@@ -1,0 +1,7 @@
+# Ignore any other files or directories specific to your project
+target/
+build/
+.cache/
+generated/
+.bsp/
+project/
